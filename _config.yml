@@ -1,1 +1,19 @@
 theme: jekyll-theme-cayman
+
+title: VANDERDOC'
+description: Le wiki du Vanderlab, le fablab du Château Éphémère - Fabrique sonore et numérique
+
+email: vanderlab@chateauephemere.org
+
+#baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://vanderlab.github.io/" # the base hostname & protocol for your site
+twitter_username: VanderLab_
+github_username:  Vanderlab
+
+# Build settings
+markdown: kramdown
+
+#exclude: [modules]
+#incremental: true
+
+permalink: /:categories/:year/:month/:day/:title.html
