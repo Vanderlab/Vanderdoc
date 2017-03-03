@@ -7,6 +7,4 @@ categories: blog
 
 ## Reste à faire :
 
-* Pages projets
-* Corriger css du footer
-* Corriger navbar
+* Galerie page projets
