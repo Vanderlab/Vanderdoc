@@ -1,14 +1,11 @@
 ---
 layout: post
-title: midi controller tower #midi-controller-tower
+title: Midi Controller Tower #midi-controller-tower
 date: 2017-03-03
 permalink: projets/midi-controller-tower.html
 ---
 
-## Tour de controle midi
-
-# midi-controller-tower
-Prototype : midi controller tower
+# Prototype d'une tour-contrôleur MIDI
 
 Introduction
 =====
@@ -25,6 +22,34 @@ Matériel
 * 2 Joysticks 2 axes Parallax
 * 1 Carte Arduino Mega 2560
 
+
+Réalisation
+=====
+
+Voici la première version de ce contrôleur midi:
+
+[front]: https://raw.githubusercontent.com/marieheuln/midi_controller_tower/master/images/midi-controller-tower_front.jpg "midi-controller-tower - front"
+![alt text][front]
+
+[side]: https://raw.githubusercontent.com/marieheuln/midi_controller_tower/master/images/midi-controller-tower_side.jpg "midi-controller-tower - side"
+![alt text][side]
+
+
+Annexes
+=====
+
+
+Circuit
+======
+
+Ci-dessousle montage électronique schématisé avec le logiciel [Fritzing](http://fritzing.org/). Je n'ai représenté qu'un capteur de chaque type par souci de lisibilité du schéma : un bouton, un capteur piezo, un joystick. Je n'ai pas trouvé le joystick 2 axes de Parallax dans les composants disponibles de Fritzing. Pour consulter le schéma de câblage exact de ce joystick, vous pouvez vous rendre sur le lien : [learn.parallax.com](http://learn.parallax.com/tutorials/language/propeller-c/propeller-c-simple-devices/joystick)
+
+[Fritzing]: https://raw.githubusercontent.com/marieheuln/midi_controller_tower/master/images/midi-controller-tower_Fritzing.jpg "midi-controller-tower - Fritzing"
+![alt text][Fritzing]
+
+
+[circuit]: https://raw.githubusercontent.com/marieheuln/midi_controller_tower/master/images/midi-controller-tower_circuit.jpg "midi-controller-tower - circuit"
+![alt text][circuit]
 
 Code
 =====
@@ -143,35 +168,6 @@ for (int i=0; i<NbJoystick*2; i++){
 
 
 ```
-
-
-Réalisation
-=====
-
-Voici la première version de ce contrôleur midi:
-
-[front]: https://raw.githubusercontent.com/marieheuln/midi_controller_tower/master/images/midi-controller-tower_front.jpg "midi-controller-tower - front"
-![alt text][front]
-
-[side]: https://raw.githubusercontent.com/marieheuln/midi_controller_tower/master/images/midi-controller-tower_side.jpg "midi-controller-tower - side"
-![alt text][side]
-
-
-Annexes
-=====
-
-
-Circuit
-======
-
-Ci-dessousle montage électronique schématisé avec le logiciel [Fritzing](http://fritzing.org/). Je n'ai représenté qu'un capteur de chaque type par souci de lisibilité du schéma : un bouton, un capteur piezo, un joystick. Je n'ai pas trouvé le joystick 2 axes de Parallax dans les composants disponibles de Fritzing. Pour consulter le schéma de câblage exact de ce joystick, vous pouvez vous rendre sur le lien : [learn.parallax.com](http://learn.parallax.com/tutorials/language/propeller-c/propeller-c-simple-devices/joystick)
-
-[Fritzing]: https://raw.githubusercontent.com/marieheuln/midi_controller_tower/master/images/midi-controller-tower_Fritzing.jpg "midi-controller-tower - Fritzing"
-![alt text][Fritzing]
-
-
-[circuit]: https://raw.githubusercontent.com/marieheuln/midi_controller_tower/master/images/midi-controller-tower_circuit.jpg "midi-controller-tower - circuit"
-![alt text][circuit]
 
 
 Découpe Laser
