@@ -38,6 +38,7 @@
       line-height: normal;
       //margin-left: 20px;
       color : #fff;
+      text-decoration: none;
     }
 
     .nav-link:hover{
