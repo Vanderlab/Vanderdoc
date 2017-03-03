@@ -2,7 +2,6 @@
 layout: post
 title: theremuino
 date: 2017-03-02
-categories: projet
 permalink: /projets/:title.html
 ---
 
