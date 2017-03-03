@@ -5,7 +5,7 @@ date: 2017-03-03
 permalink: projets/midi-controller-tower.html
 ---
 
-# Prototype d'une tour-contrôleur MIDI
+## Prototype d'une tour-contrôleur MIDI
 
 Introduction
 =====
