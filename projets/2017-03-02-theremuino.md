@@ -5,12 +5,12 @@ date: 2017-03-02
 permalink: projets/theremuino.html
 ---
 
-## Une version augmentée FAUST et Max du theremin Arduino
+## Une version augmentée FAUST et Max du théremine Arduino
 
 Introduction :
 =====
 
-Le theremuino est une version améliorée du [theremin Arduino](https://www.arduino.cc/), qui est associée à un patch [Max](https://cycling74.com) et
+Le theremuino est une version améliorée du [thérémine Arduino](https://www.arduino.cc/), qui est associée à un patch [Max](https://cycling74.com) et
 des sons et instruments générés en [FAUST](https://faust.grame.fr). Le tout a été encapsulé dans une miniature de thérémine imprimé en 3D.
 
 Matériel :
