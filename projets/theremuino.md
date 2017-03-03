@@ -1,8 +1,8 @@
 ---
 layout: post
-title: theremuino
+title: Theremuino
 date: 2017-03-02
-permalink: theremuino.html
+permalink: projets/theremuino.html
 ---
 
 ## Une version augmentée FAUST et Max du theremin Arduino
