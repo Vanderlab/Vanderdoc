@@ -71,7 +71,13 @@
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
-        <span class="site-footer-owner"><a href="{{ site.url }}">{{ site.title }}</a><a href="www.chateauephemere.org">Château Éphémère - Fabrique sonore et numérique</a></span>
+        <span class="site-footer-owner">
+          <li>
+            <ul><a href="{{ site.url }}">{{ site.title }}</a></ul>
+            <ul><a href="www.chateauephemere.org">Château Éphémère - Fabrique sonore et numérique</a></ul>
+          </li>
+        </span>
+
       </footer>
     </section>
 
