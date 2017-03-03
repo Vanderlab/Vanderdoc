@@ -12,7 +12,7 @@
 .wrapper {
 padding-right: 30px / 2;
 padding-left: 30px / 2;
-  
+
 }
 
 .site-nav{
@@ -47,4 +47,41 @@ padding-left: 30px / 2;
 
 .site-footer-credits {
   color: #2c8e02;
+}
+
+#wrap {
+    width:984px;
+    height:492px;
+}
+.big_col, .medium_col, .small_col{
+    height:492px;
+    float:left;
+}
+img {
+    display:block;
+    margin:0;
+    padding:0;
+    border:none;
+    float:left;
+}
+.big_col {
+    width:328px;
+}
+.medium_col{
+    width:164px;
+}
+.small_col{
+    width:82px;
+}
+.big_img img {
+    width:328px;
+    height:493px
+}
+.medium_img img {
+    width:164px;
+    height:246px;
+}
+.small_img img {
+    width:82px;
+    height:123px;
 }
