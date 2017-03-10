@@ -2,9 +2,10 @@
 layout: post
 title: Template de projet #Remplacer par le nom de votre projet
 date: 2017-01-19
-categories: projet
+permalink: projets/template-de-projet.html #remplacer par le nom du projet (mots séparés par des tirets)
 ---
 
+<!-- Pas besoin de mettre le titre, il est généré automatiquement depuis les metadata en en-tête-->
 ## Sous-titre du projet
 
 Introduction :
