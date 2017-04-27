@@ -31,7 +31,7 @@ Réalisation :
 
 Le patch sert ici de générateur de son. Plutôt que de passer par un buzzer Piezo directement connecté à l'Arduino, j'ai souhaiter créer un son propre à cet nistrument. Le patch permet de générer ce son (ici une onde sinusoïdale simple) et de lui appliquer des effets. Le patch s'articule comme suit :
  - L'objet [serial] permet de récupérer les données de l'Arduino émises en communication série.
- - L'external [faustgen~] développé par le [Grame - CNCM]http://www.grame.fr/ et [disponible sur leur site]http://faust.grame.fr/download/ dédié au langage FAUST permet de programmer en FAUST u instrument en faisant appel à diverses librairies.
+ - L'external [faustgen~] développé par le [Grame - CNCM](http://www.grame.fr/) et [disponible sur leur site](http://faust.grame.fr/download/) dédié au langage FAUST permet de programmer en FAUST u instrument en faisant appel à diverses librairies.
  - Max permet de faire le lien entre cet instrument et la carte Arduino, et de sortir le son depuis l'ordinateur ou des haut-parleurs connectés à celui-ci.
 
 
@@ -40,7 +40,7 @@ Le patch sert ici de générateur de son. Plutôt que de passer par un buzzer Pi
 [image]: /images/ExempleMarkdown.png "Un exemple de Markdown"
 ![alt text][image]
 
-[Exemple lien hypertexte](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 
 `Exemple de ligne code`, texte texte texte.
 
