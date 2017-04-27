@@ -11,21 +11,18 @@ Introduction :
 =====
 
 Le theremuino est une version améliorée du [thérémine Arduino](https://www.arduino.cc/), qui est associée à un patch [Max](https://cycling74.com) et
-des sons et instruments générés en [FAUST](https://faust.grame.fr). Le tout a été encapsulé dans une miniature de thérémine imprimé en 3D.
+des sons et instruments générés en [FAUST](https://faust.grame.fr). Le tout a été encapsulé dans une miniature de thérémine imprimée en 3D.
 
 Matériel :
 =====
 
 * Un carte Arduino Uno
+* Une breadboard + connecteurs
+* 2 potentiomètres
 * Une photorésistance
-* Logiciel Max + external [faustgen~]
+* Logiciel Max7 + external [faustgen~]
 * Filament PLA
 
-```---
-Citation
-bloc de
-code
-```
 
 Réalisation :
 =====
@@ -42,5 +39,11 @@ Incenderat autem audaces usque ad insaniam homines ad haec, quae nefariis egere 
 
 Annexes :
 =====
+
+```---
+Citation
+bloc de
+code
+```
 
 Incenderat autem audaces usque ad insaniam homines ad haec, quae nefariis egere conatibus, Luscus quidam curator urbis subito visus: eosque ut heiulans baiolorum praecentor ad expediendum quod orsi sunt incitans vocibus crebris. qui haut longe postea ideo vivus exustus est.
