@@ -26,8 +26,6 @@ Matériel
 Réalisation
 =====
 
-1. Réalisation du patch Max
-
 Voici la première version de ce contrôleur midi:
 
 [front]: https://raw.githubusercontent.com/marieheuln/midi_controller_tower/master/images/midi-controller-tower_front.jpg "midi-controller-tower - front"
