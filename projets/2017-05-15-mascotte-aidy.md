@@ -10,7 +10,7 @@ permalink: projets/aidy3d.html
 Introduction :
 =====
 
-Dans le cadre d'in cross organisé par L'IME "Notre école", nous avons réalisé une version 3D de leur mascotte, le petit Aidy, à partir du logo au format .JPG.
+Dans le cadre d'un cross organisé par L'IME "Notre école", nous avons réalisé une version 3D de leur mascotte, le petit Aidy, à partir du logo au format .JPG.
 
 Matériel :
 =====
@@ -39,19 +39,18 @@ La difficulté ici a été de partir d'une image en couleurs et de créer par la
 Ne reste plus qu'à extruder le tout dans Blender (cf. tuto ci-dessus).
 Voici quelques images de mon procédé :
 
+
 [Vectorisation du logo]: /images/Aidy/jpeg_vs_svg.png
 ![alt text][Vectorisation du logo]
 
 [Découpe de la forme du coeur]: /images/Aidy/Coeur1.png
 ![alt text][Découpe de la forme du coeur]
 
+
 J'ai aussi ajouté un morceau en prévision de l'emboîtage dans un socle :
 
 [Ajout pour socle]: /images/Aidy/Pied_socle.png
 ![alt text][Ajout pour socle]
-
-[Extrusion en 3D]: /images/Aidy/Pied_socle.png
-![alt text][Extrusion en 3D]
 
 ##Création du socle
 
@@ -60,6 +59,7 @@ J'ai pour cela utilisé Blender.
 
 Je suis partie d'un mesh cube que j'ai redimensionné en modifiant les paramètres de dimension dans le menu latéral droit (N pour le faire apparaître/disparaître).
 Aidy faisant 161x108x10mm, il fallait un socle assez large et assez haut pour que le rajout au pied de 4mm puisse s'emboîter dedans. J'ai donc créé un pavé de `80x20x6mm`.
+
 
 [Socle]: /images/Aidy/1.png
 ![alt text][Socle]
@@ -73,6 +73,7 @@ Aidy faisant 161x108x10mm, il fallait un socle assez large et assez haut pour qu
 
 Pour créer l'encoche d'emboîtage du pied j'ai créé un second mesh cube redimensionné à la taille de l'encoche, soit `10x2x4mm`, et dont je me sui servi pour appliquer un booléen sur mon premier cube.
 
+
 [Socle]: /images/Aidy/5.png
 ![alt text][Socle]
 
@@ -84,21 +85,25 @@ Pour creuser une forme en appliquant un booléen :
 - sélectionner la forme à creuser (clique droit dessus)
 - sélectionner la petite clé à molette dans le menu de droite
 
+
 [Socle]: /images/Aidy/7.png
 ![alt text][Socle]
 
 - cliquer sur `add modifier` et séléctionner `boolean`
+
 
 [Socle]: /images/Aidy/8.png
 ![alt text][Socle]
 
 - Choisir l'opération `difference`et l'objet qui servira à creuser
 
+
 [Socle]: /images/Aidy/10.png
 ![alt text][Socle]
 
 - Déplacer l'objet qui sert à creuser dans un autre calque (touche M) puis cliquer sur appliquer.
 - Le socle est maintenant creusé :
+
 
 [Socle]: /images/Aidy/11.png
 ![alt text][Socle]
@@ -114,6 +119,7 @@ Pour creuser une forme en appliquant un booléen :
 Après avoir exporté votre fichier en .STL il ne reste plus qu'à passer à l'impression en 3D, en 3 parties pour les 2 couleurs différentes, le corps et socle en PLA bleu et le coeur en PLA rouge.
 Attention : il m' fallu remettre mon fichier à l'échelle avant l'impression !
 
+
 [Print]: /images/Aidy/Aidy1.jpg
 ![alt text][Print]
 
@@ -123,6 +129,7 @@ Attention : il m' fallu remettre mon fichier à l'échelle avant l'impression !
 ## Assemblage
 
 Plus qu'à assembler les pièces, coller à la superglue et raboter si nécessaire là où il faut !
+
 
 [Print]: /images/Aidy/Aidy4.jpg
 ![alt text][Print]
