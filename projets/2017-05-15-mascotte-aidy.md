@@ -52,7 +52,7 @@ J'ai aussi ajouté un morceau en prévision de l'emboîtage dans un socle :
 [Ajout pour socle]: /images/Aidy/Pied_socle.png
 ![alt text][Ajout pour socle]
 
-##Création du socle
+## Création du socle
 
 La petit Aidy ne tenant pas sur ses pattes, il a fallu créer un socle pour le faire tenir.
 J'ai pour cela utilisé Blender.
@@ -61,24 +61,24 @@ Je suis partie d'un mesh cube que j'ai redimensionné en modifiant les paramètr
 Aidy faisant 161x108x10mm, il fallait un socle assez large et assez haut pour que le rajout au pied de 4mm puisse s'emboîter dedans. J'ai donc créé un pavé de `80x20x6mm`.
 
 
-[Socle]: /images/Aidy/1.png
-![alt text][Socle]
+[Socle1]: /images/Aidy/1.png
+![alt text][Socle1]
 
-[Socle]: /images/Aidy/3.png
+[Socle2]: /images/Aidy/3.png
 ![alt text][Socle]
 
 [Socle]: /images/Aidy/4.png
-![alt text][Socle]
+![alt text][Socle2]
 
 
 Pour créer l'encoche d'emboîtage du pied j'ai créé un second mesh cube redimensionné à la taille de l'encoche, soit `10x2x4mm`, et dont je me sui servi pour appliquer un booléen sur mon premier cube.
 
 
-[Socle]: /images/Aidy/5.png
-![alt text][Socle]
+[Socle3]: /images/Aidy/5.png
+![alt text][Socle3]
 
-[Socle]: /images/Aidy/6.png
-![alt text][Socle]
+[Socle4]: /images/Aidy/6.png
+![alt text][Socle4]
 
 Pour creuser une forme en appliquant un booléen :
 
@@ -86,32 +86,32 @@ Pour creuser une forme en appliquant un booléen :
 - sélectionner la petite clé à molette dans le menu de droite
 
 
-[Socle]: /images/Aidy/7.png
-![alt text][Socle]
+[Socle5]: /images/Aidy/7.png
+![alt text][Socle5]
 
 - cliquer sur `add modifier` et séléctionner `boolean`
 
 
-[Socle]: /images/Aidy/8.png
-![alt text][Socle]
+[Socle6]: /images/Aidy/8.png
+![alt text][Socle6]
 
 - Choisir l'opération `difference`et l'objet qui servira à creuser
 
 
-[Socle]: /images/Aidy/10.png
-![alt text][Socle]
+[Socle7]: /images/Aidy/10.png
+![alt text][Socle7]
 
 - Déplacer l'objet qui sert à creuser dans un autre calque (touche M) puis cliquer sur appliquer.
 - Le socle est maintenant creusé :
 
 
-[Socle]: /images/Aidy/11.png
-![alt text][Socle]
+[Socle8]: /images/Aidy/11.png
+![alt text][Socle8]
 
 - Plus qu'à exporter le fichier .STL
 
-[Socle]: /images/Aidy/12.png
-![alt text][Socle]
+[Socle9]: /images/Aidy/12.png
+![alt text][Socle9]
 
 
 ## Impression 3D
@@ -120,22 +120,22 @@ Après avoir exporté votre fichier en .STL il ne reste plus qu'à passer à l'i
 Attention : il m' fallu remettre mon fichier à l'échelle avant l'impression !
 
 
-[Print]: /images/Aidy/Aidy1.jpg
-![alt text][Print]
+[Print1]: /images/Aidy/Aidy1.jpg
+![alt text][Print1]
 
-[Print]: /images/Aidy/Aidy3.jpg
-![alt text][Print]
+[Print2]: /images/Aidy/Aidy3.jpg
+![alt text][Print2]
 
 ## Assemblage
 
 Plus qu'à assembler les pièces, coller à la superglue et raboter si nécessaire là où il faut !
 
 
-[Print]: /images/Aidy/Aidy4.jpg
-![alt text][Print]
+[Print3]: /images/Aidy/Aidy4.jpg
+![alt text][Print3]
 
-[Print]: /images/Aidy/Aidy5.jpg
-![alt text][Print]
+[Print4]: /images/Aidy/Aidy5.jpg
+![alt text][Print4]
 
-[Print]: /images/Aidy/Aidy6.jpg
-![alt text][Print]
+[Print5]: /images/Aidy/Aidy6.jpg
+![alt text][Print5]
