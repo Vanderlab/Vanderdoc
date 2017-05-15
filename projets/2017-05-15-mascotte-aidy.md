@@ -117,7 +117,7 @@ Pour creuser une forme en appliquant un booléen :
 ## Impression 3D
 
 Après avoir exporté votre fichier en .STL il ne reste plus qu'à passer à l'impression en 3D, en 3 parties pour les 2 couleurs différentes, le corps et socle en PLA bleu et le coeur en PLA rouge.
-Attention : il m' fallu remettre mon fichier à l'échelle avant l'impression !
+Attention : il m'a fallu remettre mon fichier à l'échelle avant l'impression !
 
 
 [Print1]: /images/Aidy/Aidy1.jpg
