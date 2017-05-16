@@ -19,5 +19,5 @@ Le Vanderlab est le Fablab - ou "laboratoire de fabrication" du Château Éphém
 [Logo1]: /images/logos/logo_vanderlab.png
 ![alt text][Logo1]
 
-[Logo2]: /images/logos/logo_chateau.jpg
+[Logo2]: /images/logos/logo_chateau2.jpg
 ![alt text][Logo2]

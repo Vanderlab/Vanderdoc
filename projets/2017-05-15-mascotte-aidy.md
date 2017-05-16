@@ -10,7 +10,7 @@ permalink: projets/aidy3d.html
 Introduction :
 =====
 
-Dans le cadre d'un cross organisé par L'IME "Notre école", nous avons réalisé une version 3D de leur mascotte, le petit Aidy, à partir du logo au format .JPG.
+Dans le cadre d'un cross organisé par l'association "Autisme en Yvelines", nous avons réalisé une version 3D de leur mascotte, le petit Aidy, à partir du logo au format .JPG.
 
 Matériel :
 =====
