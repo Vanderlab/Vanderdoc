@@ -36,7 +36,6 @@ Le patch sert ici de générateur de son. Plutôt que de passer par un buzzer Pi
 
 
 
-
 [image]: /images/ExempleMarkdown.png "Un exemple de Markdown"
 ![alt text][image]
 
