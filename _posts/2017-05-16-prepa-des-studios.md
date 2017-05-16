@@ -9,7 +9,7 @@ categories: blog
 
 En mai, on refait une beauté aux studios d'enregitrement du Château qui ouvriront leur portes lors de notre [Afterwork de juin](https://www.facebook.com/events/1778522085537430/).
 
-Tout le Château participe, et le Vanderlab aussi ! Romain l'ingénieur son m'a demandé de réaliser les façades des patchs de branchement du studio de prise à la découpeuse laser, le résultat en images :
+Tout le Château participe, et le Vanderlab aussi ! Nous avons mis à contribution la découpeuse laser Lasersaur pour réaliser les façades des patchs de branchement du studio de prise, le résultat en images :
 
 
 [Facade1]: /images/facade/11.jpg "Un exemple de Markdown"
