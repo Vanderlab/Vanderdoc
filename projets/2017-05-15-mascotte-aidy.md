@@ -54,7 +54,7 @@ J'ai aussi ajouté un morceau en prévision de l'emboîtage dans un socle :
 
 ## Création du socle
 
-La petit Aidy ne tenant pas sur ses pattes, il a fallu créer un socle pour le faire tenir.
+Le petit Aidy ne tenant pas sur ses pattes, il a fallu créer un socle pour le faire tenir.
 J'ai pour cela utilisé Blender.
 
 Je suis partie d'un mesh cube que j'ai redimensionné en modifiant les paramètres de dimension dans le menu latéral droit (N pour le faire apparaître/disparaître).
