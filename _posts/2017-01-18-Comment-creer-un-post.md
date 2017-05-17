@@ -21,4 +21,5 @@ Envie de partager votre expérience au Vanderlab ? De raconter les avancées d'u
 * Sauvergardez votre fichier
 * Chargez le dans le dossier [/projet/ du repository GitHub](https://github.com/Vanderlab/vanderlab.github.io/tree/master/projets)
 * OU envoyez le par email au <a href="mailto:vanderlab@chateauephemere.org">Vanderlab</a>
-* Plus qu'à enregistrer et soumettre puis aller à la page `https://vanderlab.github.io/blog/AAA/MM/JJ/titre-du-post`, votre contribution est affichée !
+* Transmettez nous aussi une illustration pour la galerie de projets !!
+* Plus qu' à aller à la page `http://wiki.vanderlab.org/projets/nom-du-projet.html`, votre contribution est affichée !
