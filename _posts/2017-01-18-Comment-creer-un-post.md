@@ -11,7 +11,7 @@ categories: blog
 Envie de partager votre expérience au Vanderlab ? De raconter les avancées d'un projet en cours ? Rien de plus simple, il suffit de créer un post en [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) comme suit :
 
 * Créez un nouveau fichier `.md` dans un éditeur de texte (TextEdit, TextWrangler, Atom, etc. ), dont le nom respecte la syntaxe suivante : `AAAA-MM-JJ-titre-du-post.md`
-* Copiez le contenu du [template de projet](projets/2017-01-19-template-de-projet.html)dans votre fichier
+* Copiez le contenu du [template de projet](projets/template-de-projet.html) dans votre fichier
 * Modifier son contenu en suivant les indications an commentaire
 * Rédiger votre post en respectant la [syntaxe du Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#emphasis) comme dans l'exemple ci-dessous :
 
