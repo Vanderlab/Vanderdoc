@@ -10,13 +10,8 @@ Afin de respecter la charte des fablabs et son esprit de partage, chaque utilisa
 
 ## Comment documenter ?
 
-C'est très simple ! Pour ajouter un fichier dupliquez le post "template-de-projet.md" dans le repository github du site et façonnez le à votre convenance !
+C'est très simple ! Pour ajouter un fichier dupliquez le post "template-de-projet.md" dans le [repository GitHub](https://github.com/Vanderlab/vanderlab.github.io/) du site et façonnez le à votre convenance !
 
 ## Le Vanderlab, c'est quoi ?
 
 Le Vanderlab est le Fablab - ou "laboratoire de fabrication" du Château Éphémère - Fabrique sonore et numérique. De par notre situation au coeur de ce lieu culturel de résidence artistiques, nous sommes à la croisée des innovations artistiques, numériques et DIY.
-
-
-<!--[Logo1]: /images/logos/logo_vanderlab.png ![alt text][Logo1] -->
-
-<!-- [Logo2]: /images/logos/logo_chateau2.jpg ![alt text][Logo2]-->
