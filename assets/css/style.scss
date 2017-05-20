@@ -65,7 +65,7 @@ padding-left: 30px / 2;
 .jolieGalerie{
   display: block;
   width: auto;
-  min-height: auto;
+  min-height: 800px;
   padding: 15px;
 }
 
@@ -81,7 +81,7 @@ padding-left: 30px / 2;
 }
 
 .gall {
-    margin: 5px;
+    margin: 5px !important;
     border: none; //1px solid #ccc;
     float: left;
     width: 250px;
